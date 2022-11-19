@@ -18,9 +18,3 @@ function QBCore.Functions.Notify(text, textype, length)
     end
 end
 
-Customizing:
-
-mythic_notify/config.js:
-
-enabled - Enable/Disable flashing emergency notifications (default: true)
-numFlashes - Set the number of flashes (default: 5)
